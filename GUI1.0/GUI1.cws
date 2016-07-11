@@ -1,0 +1,332 @@
+[Workspace Header]
+Version = 1201
+Pathname Line0001 = "/c/Documents and Settings/Administrator/My Documents/National Instruments/CVI/GU"
+Pathname Line0002 = "I1.0/GUI1.cws"
+CVI Dir = "/d/program files/national instruments/cvi2012"
+CVI Shared Dir = "/D/Program Files/National Instruments/Shared/CVI"
+CVI Pub Local Dir Line0001 = "/C/Documents and Settings/All Users/Application Data/National Instruments/CVI201"
+CVI Pub Local Dir Line0002 = "2"
+CVI Pub Global Dir = "/C/Documents and Settings/All Users/Application Data/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "GUI1.0"
+Drag Bar Left = 282
+Window Top = 30
+Window Left = 96
+Window Bottom = 532
+Window Right = 886
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 12
+Window Confinement Region Enabled = True
+MainColumnWidth = 265
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+StatusColumnWidth = 70
+
+[Project Header 0001]
+Version = 1201
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[File 0001]
+Path Line0001 = "/c/Documents and Settings/Administrator/My Documents/National Instruments/CVI/GU"
+Path Line0002 = "I1.0/MSCAL.fp"
+File Type = "Function Panel"
+Disk Date = 3546767581
+In Projects = "1,"
+Window Top = 152
+Window Left = 70
+Window Height = 400
+Window Width = 400
+
+[File 0002]
+Path Line0001 = "/c/Documents and Settings/Administrator/My Documents/National Instruments/CVI/GU"
+Path Line0002 = "I1.0/Panel_HistoryQuery.uir"
+File Type = "User Interface Resource"
+Disk Date = 3550463490
+In Projects = "1,"
+Window Top = 32
+Window Left = 6
+Window Height = 275
+Window Width = 421
+Window Z-Order = 11
+
+[File 0003]
+Path Line0001 = "/c/Documents and Settings/Administrator/My Documents/National Instruments/CVI/GU"
+Path Line0002 = "I1.0/Panel_Main.h"
+File Type = "Include"
+Disk Date = 3549938654
+In Projects = ""
+Window Top = 62
+Window Left = 22
+Window Z-Order = 10
+Source Window State = "1,0,98,0,0,0,0,0,0,89,0,0,0,0,0,21,65,0,79,89,275,571,1,0,"
+
+[File 0004]
+Path Line0001 = "/c/Documents and Settings/Administrator/My Documents/National Instruments/CVI/GU"
+Path Line0002 = "I1.0/Panel_Main.c"
+File Type = "CSource"
+Disk Date = 3550814221
+In Projects = "1,"
+Window Top = 58
+Window Left = 22
+Window Z-Order = 1
+Source Window State = "1,441,441,441,12,102,12,0,0,227,0,431,0,0,0,48,598,0,626,70,327,679,1,17,"
+
+[File 0005]
+Path Line0001 = "/c/Documents and Settings/Administrator/My Documents/National Instruments/CVI/GU"
+Path Line0002 = "I1.0/Panel_NewProject.c"
+File Type = "CSource"
+Disk Date = 3550729415
+In Projects = "1,"
+Window Top = 92
+Window Left = 38
+Window Z-Order = 5
+Source Window State = "1,103,104,103,0,0,0,0,0,107,0,0,0,1,0,25,79,0,29,226,323,679,1,11,"
+
+[File 0006]
+Path Line0001 = "/c/Documents and Settings/Administrator/My Documents/National Instruments/CVI/GU"
+Path Line0002 = "I1.0/global.h"
+File Type = "Include"
+Disk Date = 3550729173
+In Projects = ""
+Window Top = 32
+Window Left = 6
+Window Z-Order = 2
+Source Window State = "0,240,240,240,4,23,23,0,0,124,19,93,0,104,200,6,227,0,230,58,323,781,1,7923,"
+
+[File 0007]
+Path Line0001 = "/c/Documents and Settings/Administrator/My Documents/National Instruments/CVI/GU"
+Path Line0002 = "I1.0/global.c"
+File Type = "CSource"
+Disk Date = 3549936275
+In Projects = "1,"
+Window Top = 182
+Window Left = 86
+Window Z-Order = 12
+Source Window State = "1,0,175,0,0,0,0,0,0,80,0,25,0,1,0,25,142,0,150,65,323,517,1,17,"
+
+[File 0008]
+Path Line0001 = "/c/Documents and Settings/Administrator/My Documents/National Instruments/CVI/GU"
+Path Line0002 = "I1.0/Database.c"
+File Type = "CSource"
+Disk Date = 3550812936
+In Projects = "1,"
+Window Top = 32
+Window Left = 6
+Window Z-Order = 3
+Source Window State = "1,336,336,336,18,21,21,0,0,106,0,34,0,0,0,25,175,0,192,2,323,673,1,17,"
+
+[File 0009]
+Path Line0001 = "/c/Documents and Settings/Administrator/My Documents/National Instruments/CVI/GU"
+Path Line0002 = "I1.0/Database.h"
+File Type = "Include"
+Disk Date = 3550806620
+In Projects = ""
+Window Top = 88
+Window Left = 38
+Window Z-Order = 9
+Source Window State = "1,27,28,27,0,0,0,0,0,80,0,5,0,0,0,25,9,0,26,55,327,517,1,24,"
+
+[File 0010]
+Path Line0001 = "/c/Documents and Settings/Administrator/My Documents/National Instruments/CVI/GU"
+Path Line0002 = "I1.0/Panel_Main.uir"
+File Type = "User Interface Resource"
+Disk Date = 3549938647
+In Projects = "1,"
+Window Top = 272
+Window Left = 134
+Window Height = 323
+Window Width = 679
+Window Z-Order = 6
+
+[File 0011]
+Path Line0001 = "/c/Documents and Settings/Administrator/My Documents/National Instruments/CVI/GU"
+Path Line0002 = "I1.0/Panel_HistoryQuery.c"
+File Type = "CSource"
+Disk Date = 3550530627
+In Projects = "1,"
+Window Top = 242
+Window Left = 118
+Window Z-Order = 7
+Source Window State = "1,114,115,114,0,0,0,0,0,107,0,3,0,0,0,25,102,0,118,205,323,679,1,17,"
+
+[File 0012]
+Path Line0001 = "/c/Documents and Settings/Administrator/My Documents/National Instruments/CVI/GU"
+Path Line0002 = "I1.0/Panel_HistoryQuery.h"
+File Type = "Include"
+Disk Date = 3550205919
+In Projects = ""
+Window Top = 62
+Window Left = 22
+Window Z-Order = 4
+Source Window State = "1,0,57,0,0,0,0,0,0,106,0,18,0,0,0,25,24,0,27,50,323,673,1,23,"
+
+[File 0013]
+Path Line0001 = "/c/Documents and Settings/Administrator/My Documents/National Instruments/CVI/GU"
+Path Line0002 = "I1.0/Panel_OpenProject.c"
+File Type = "CSource"
+Disk Date = 3550729413
+In Projects = "1,"
+Window Top = 122
+Window Left = 54
+Window Z-Order = 8
+Source Window State = "1,114,115,114,0,0,0,0,0,107,0,0,0,28,99,25,116,36,128,123,323,679,1,0,"
+
+[File 0014]
+Path Line0001 = "/c/Documents and Settings/Administrator/My Documents/National Instruments/CVI/GU"
+Path Line0002 = "I1.0/Panel_NewProject.uir"
+File Type = "User Interface Resource"
+Disk Date = 3550201274
+In Projects = "1,"
+Window Top = 332
+Window Left = 166
+Window Height = 323
+Window Width = 679
+
+[File 0015]
+Path Line0001 = "/c/Documents and Settings/Administrator/My Documents/National Instruments/CVI/GU"
+Path Line0002 = "I1.0/Panel_OpenProject.uir"
+File Type = "User Interface Resource"
+Disk Date = 3550201239
+In Projects = "1,"
+Window Top = 302
+Window Left = 150
+Window Height = 323
+Window Width = 679
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+
+[Watch Point 1]
+Watch Expression = "operatingproject"
+Update Display Continuously = True
+Break When Value Changes = False
+Scope = "Global To Project"
+DllName Line0001 = "c:\\Documents and Settings\\Administrator\\My Documents\\National Instruments\\C"
+DllName Line0002 = "VI\\GUI1.0\\GUI1.exe"
+
+[Watch Point 2]
+Watch Expression = "operatinggroupnum"
+Update Display Continuously = True
+Break When Value Changes = False
+Scope = "Global To Project"
+DllName Line0001 = "c:\\Documents and Settings\\Administrator\\My Documents\\National Instruments\\C"
+DllName Line0002 = "VI\\GUI1.0\\GUI1.exe"
+
+[Watch Point 3]
+Watch Expression = "operatingmeasurenum"
+Update Display Continuously = True
+Break When Value Changes = False
+Scope = "Global To Project"
+DllName Line0001 = "c:\\Documents and Settings\\Administrator\\My Documents\\National Instruments\\C"
+DllName Line0002 = "VI\\GUI1.0\\GUI1.exe"
+
+[Watch Point 4]
+Watch Expression = "projectinfo"
+Update Display Continuously = True
+Break When Value Changes = False
+Scope = "Local"
+File = "Database.c"
+Function = "getAllProjectsInfo"
+DllName Line0001 = "c:\\Documents and Settings\\Administrator\\My Documents\\National Instruments\\C"
+DllName Line0002 = "VI\\GUI1.0\\GUI1.exe"
+
